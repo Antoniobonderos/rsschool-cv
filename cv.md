@@ -1,5 +1,6 @@
 # Anton Pobedinskiy
-## My email: toha.pobeda@gmail.com my discord-name: Antoniobonderos
+* My email: toha.pobeda@gmail.com
+* my discord: Antoniobonderos
 ### Qualities:
 * creativity
 * industriousness
