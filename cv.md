@@ -10,7 +10,12 @@
 ### Skills:
 * Git & Github
 * HTML & CSS
+* Windows OS
+* Figma(for web development)
+* VS code
 ### Education
 * Francysk Skaryna Gomel State University
-
-
+### Languages
+* EPAM English test result: A0 I try to learn English in every possible way. I use application in smartphone: Duolingo and I use google translate a lot.
+* Russian
+* Ukrainian
