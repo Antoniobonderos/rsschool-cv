@@ -1,0 +1,121 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container-main {
+    width: 1024px;
+    margin: 20px auto;
+    background-color: beige;
+}
+
+.header {
+    width: 500px;
+}
+
+.photo {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 15px solid gray;
+    margin: auto;
+    margin-left: 150px;
+}
+
+.name {
+    font-size: 50px;
+    color: rgb(80, 80, 80);
+    text-transform: uppercase;
+    margin-left: 30px;
+}
+
+.vakancy {
+    color: rgb(80, 80, 80);
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-left: 60px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;   
+}
+
+.navigation {
+    width: 1024px;
+    background-color:lightsalmon;
+    border-radius: 20px;
+}
+
+.nav-item a {
+    padding-right: 20px;
+    text-decoration: none;
+    color: rgb(80, 80, 80);
+    font-size: 25px;
+}
+
+.nav-item:hover {
+    background-color: crimson;
+    border-radius: 20px;
+}
+
+.main {
+    margin-top: 50px;
+}
+
+.list-point {
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.block-1 {
+    display: flex;
+}
+
+.point-1 {
+    margin-left: 50px;
+}
+
+.qua {
+    margin-left: 50px;
+}
+
+.point-2 {
+    margin-left: 200px;
+
+}
+
+.educ {
+    margin-left: 250px;
+}
+
+.main-div {
+    display: flex;
+}
+
+.lang {
+    margin-left: 50px;
+}
+
+.last {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-rs {
+    width: 150px;
+    height: 150px;
+}
+
+.year {
+    margin-top: 50px;
+}
+
+.git {
+    width: 100px;
+    height: 100px;   
+}
